@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+file b
 แก้โค้ดในproduction
-=======
 แก้code ใน feature2
->>>>>>> feature2
